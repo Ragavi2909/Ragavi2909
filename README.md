@@ -1,116 +1,107 @@
-# Hi 👋, I'm Ragavi
+<h1 align="center">Hi 👋, I'm Ragavi</h1>
 
-### CSE Student | Aspiring Software Developer
+<h3 align="center">
+Computer Science Engineering Student • Aspiring Software Developer
+</h3>
 
-I'm a Computer Science Engineering student at **Kongu Engineering College** with an interest in software development. I enjoy learning new technologies, solving programming problems, and building projects that help me improve my skills.
-
----
-
-## 🌱 Currently Learning
-
-- Java
-- Data Structures & Algorithms
-- MongoDB
-- AWS
+<p align="center">
+Learning every day, building projects, and improving my problem-solving skills.
+</p>
 
 ---
 
-## 💻 Skills
+## 👩‍💻 About Me
 
-**Languages**
-- Java
-- C
+🎓 Computer Science Engineering student at **Kongu Engineering College**
 
+💻 Interested in software development
 
-**Frontend**
-- HTML
-- CSS
-- JavaScript
+🌱 Currently learning **Java, MongoDB and AWS**
 
-**Backend**
-- Node.js
-- Express.js
+📚 Regularly practicing **Data Structures & Algorithms**
 
-**Database**
-- MongoDB
-- MySQL
-
-**Tools**
-- Git
-- GitHub
-- VS Code
-- AWS
+🚀 I enjoy turning ideas into real-world projects.
 
 ---
 
-## 🚀 Projects
+## 🛠️ Tech Stack
 
-### Crowdfunding Platform
-A web application for creating and managing fundraising campaigns.
+<p>
 
-**Tech Stack:** HTML, CSS, JavaScript, Node.js, Express.js, MongoDB
+<img src="https://skillicons.dev/icons?i=java,c,html,css,javascript,nodejs,express,mongodb,mysql,aws,git,github,vscode"/>
 
-🔗 Repository  
-https://github.com/Ragavi2909/crowdfunding21-last
+</p>
 
 ---
 
-### Quiz Application
-An interactive quiz application built using HTML, CSS and JavaScript.
+## 🚀 Featured Projects
 
-🔗 Repository  
-https://github.com/Ragavi2909/Quiz
+### 💰 Crowdfunding Platform
+A crowdfunding platform where users can create campaigns, raise funds, and manage donations.
 
----
-
-### Tic Tac Toe
-A two-player Tic Tac Toe game with score tracking using Flask and SQLite.
-
-🔗 Repository  
-https://github.com/Ragavi2909/TicTacToe
+🔗 https://github.com/Ragavi2909/crowdfunding21-last
 
 ---
 
-### Java Console Applications
-A collection of Java console-based applications that demonstrate core Java concepts and problem-solving.
+### 📝 Quiz Application
+An interactive quiz application with score tracking.
 
-🔗 Repository  
-https://github.com/Ragavi2909/Console_based
+🔗 https://github.com/Ragavi2909/Quiz
 
 ---
 
-## 📜 Certifications
+### 🎮 Tic Tac Toe
+A web-based Tic Tac Toe game with score tracking and SQLite integration.
 
-- Oracle Java SE 17 Developer
-- MongoDB Certified Associate Developer
+🔗 https://github.com/Ragavi2909/TicTacToe
+
+---
+
+### ☕ Java Console Applications
+A collection of Java console applications demonstrating OOP and problem-solving.
+
+🔗 https://github.com/Ragavi2909/Console_based
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ragavi2909&show_icons=true&theme=tokyonight&hide_border=true)
+<p align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ragavi2909&layout=compact&theme=tokyonight&hide_border=true)
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Ragavi2909&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ragavi2909&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
-## 📫 Connect With Me
+## 📫 Connect with Me
 
-📧 Email  
+📧 **Email**
+
 ragavirajeshkanna29@gmail.com
 
-💼 LinkedIn  
-https://www.linkedin.com/in/ragavir29
+💼 **LinkedIn**
 
-💻 GitHub  
+https://linkedin.com/in/ragavir29
+
+💻 **GitHub**
+
 https://github.com/Ragavi2909
 
-🟡 LeetCode  
+🟡 **LeetCode**
+
 https://leetcode.com/u/ragavirajeshkanna
 
-🟢 GeeksforGeeks  
+🟢 **GeeksforGeeks**
+
 https://www.geeksforgeeks.org/profile/rrgavtzhz
 
 ---
 
-Thanks for visiting my profile!
+<p align="center">
+
+⭐ Thanks for visiting my profile!
+
+</p>
