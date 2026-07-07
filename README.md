@@ -1,225 +1,116 @@
 # Hi 👋, I'm Ragavi
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1200&color=A855F7&center=true&vCenter=true&width=700&lines=Software+Developer;Java+Developer;Backend+Development+Enthusiast;AWS+Learner;Problem+Solver" alt="Typing SVG" />
+### CSE Student | Aspiring Software Developer
 
-<p>
-I'm passionate about building reliable software, strengthening my problem-solving skills, and continuously learning modern technologies.
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=Ragavi2909&label=Profile%20Views&color=8A2BE2&style=flat" />
-
-</div>
+I'm a Computer Science Engineering student at **Kongu Engineering College** with an interest in software development. I enjoy learning new technologies, solving programming problems, and building projects that help me improve my skills.
 
 ---
 
-# 👩‍💻 About Me
-
-- 🎓 B.E Computer Science Engineering student at **Kongu Engineering College**
-- 💜 Aspiring **Software Developer**
-- 🌱 Currently learning **Javascript**
-- 📚 Regularly solving **Data Structures & Algorithms**
-- 🚀 Interested in building practical software applications
-- 🤝 Always eager to learn new technologies and improve coding skills
-
----
-
-# 🚀 Current Focus
+## 🌱 Currently Learning
 
 - Java
 - Data Structures & Algorithms
-- Frontend Development
 - MongoDB
-- AWS Cloud
+- AWS
 
 ---
 
-# 💻 Tech Stack
+## 💻 Skills
 
-<p align="center">
+**Languages**
+- Java
+- C
 
-<img src="https://skillicons.dev/icons?i=java,c,html,css,javascript,nodejs,express,mongodb,mysql,aws,git,github,vscode"/>
 
-</p>
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ragavi2909&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ragavi2909&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Ragavi2909&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ragavi2909&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ragavi2909&theme=tokyonight&no-frame=true&column=4"/>
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
-## 🌟 Crowdfunding Platform
-
-A full-stack crowdfunding platform where users can create campaigns, contribute securely, and manage fundraising activities through an admin panel.
-
-**Tech Stack**
-
+**Frontend**
 - HTML
 - CSS
 - JavaScript
+
+**Backend**
 - Node.js
 - Express.js
+
+**Database**
 - MongoDB
+- MySQL
 
-🔗 Repository
+**Tools**
+- Git
+- GitHub
+- VS Code
+- AWS
 
+---
+
+## 🚀 Projects
+
+### Crowdfunding Platform
+A web application for creating and managing fundraising campaigns.
+
+**Tech Stack:** HTML, CSS, JavaScript, Node.js, Express.js, MongoDB
+
+🔗 Repository  
 https://github.com/Ragavi2909/crowdfunding21-last
 
 ---
 
-## 🧠 Quiz Application
+### Quiz Application
+An interactive quiz application built using HTML, CSS and JavaScript.
 
-Interactive quiz application with score tracking and user-friendly interface.
-
-**Tech Stack**
-
-- HTML
-- CSS
-- JavaScript
-
-🔗 Repository
-
+🔗 Repository  
 https://github.com/Ragavi2909/Quiz
 
 ---
 
-## 🎮 Tic Tac Toe
+### Tic Tac Toe
+A two-player Tic Tac Toe game with score tracking using Flask and SQLite.
 
-A web-based Tic Tac Toe game with score tracking and SQLite database integration.
-
-**Tech Stack**
-
-- Flask
-- Python
-- SQLite
-- HTML
-- CSS
-
-🔗 Repository
-
+🔗 Repository  
 https://github.com/Ragavi2909/TicTacToe
 
 ---
 
-## ☕ Console Based Applications
+### Java Console Applications
+A collection of Java console-based applications that demonstrate core Java concepts and problem-solving.
 
-A collection of Java console applications demonstrating OOP concepts, collections, exception handling, and problem-solving.
-
-🔗 Repository
-
+🔗 Repository  
 https://github.com/Ragavi2909/Console_based
 
 ---
 
-# 🏆 Certifications
+## 📜 Certifications
 
-🏅 Oracle Java SE 17 Developer
-
-🏅 MongoDB Certified Associate Developer
-
----
-
-# 🏅 Achievements
-
-🥇 Top 60 Team — Techno Cultural 2025
-
-🥇 Computer Society of India (CSI) Member
-
-🥇 Presented research papers at CSI and KSR institutions.
+- Oracle Java SE 17 Developer
+- MongoDB Certified Associate Developer
 
 ---
 
-# 🌐 Coding Profiles
+## 📊 GitHub Stats
 
-<p align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ragavi2909&show_icons=true&theme=tokyonight&hide_border=true)
 
-<a href="https://github.com/Ragavi2909">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/ragavir29">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-</p>
-
-- 💻 GitHub: https://github.com/Ragavi2909
-
-- 💼 LinkedIn: https://www.linkedin.com/in/ragavir29
-
-- 🟡 LeetCode: https://leetcode.com/u/ragavirajeshkanna
-
-- 🟢 GeeksforGeeks: https://www.geeksforgeeks.org/profile/rrgavtzhz
-
-- 📧 Email: ragavirajeshkanna29@gmail.com
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ragavi2909&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
-# 🎯 2026 Goals
+## 📫 Connect With Me
 
-✅ Strengthen Java Programming
+📧 Email  
+ragavirajeshkanna29@gmail.com
 
-✅ Master Data Structures & Algorithms
+💼 LinkedIn  
+https://www.linkedin.com/in/ragavir29
 
-✅ Build impactful backend projects
+💻 GitHub  
+https://github.com/Ragavi2909
 
-✅ Learn Cloud Technologies
+🟡 LeetCode  
+https://leetcode.com/u/ragavirajeshkanna
 
-✅ Contribute to Open Source
-
-✅ Secure a Software Developer role
-
----
-
-# 💜 Quote
-
-> "Great software is built through continuous learning, consistency, and curiosity."
+🟢 GeeksforGeeks  
+https://www.geeksforgeeks.org/profile/rrgavtzhz
 
 ---
 
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-If you like my projects, consider giving them a ⭐
-
-</div>
+Thanks for visiting my profile!
