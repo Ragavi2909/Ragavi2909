@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1200&color=A855F7&center=true&vCenter=true&width=700&lines=Software+Developer;Java+Developer;Backend+Development+Enthusiast;AWS+Learner;Problem+Solver" alt="Typing SVG" />
 
 <p>
-I'm passionate about building reliable software, strengthening my problem-solving skills, and continuously learning modern backend technologies.
+I'm passionate about building reliable software, strengthening my problem-solving skills, and continuously learning modern technologies.
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=Ragavi2909&label=Profile%20Views&color=8A2BE2&style=flat" />
